@@ -1,3 +1,3 @@
-[Helium](https://github.com/ShizzaHo/helium-create-app)
+[Helium](https://github.com/ShizzaHo/helium)
 
 Остальная информация будет позже
